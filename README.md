@@ -1,2 +1,2 @@
 # linear-regression-implementation
-An implementation of linear regression
+An implementation of univariate and multivariate linear regression using pandas and numpy
